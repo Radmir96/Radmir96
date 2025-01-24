@@ -4,6 +4,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
+![Static Badge](https://img.shields.io/badge/Figma-black?style=plastic&logo=figma)
 ![Static Badge](https://img.shields.io/badge/SolidWorks-red?style=plastic&logo=dassaultsystemes)
 
 
